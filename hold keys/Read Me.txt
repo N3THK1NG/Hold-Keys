@@ -1,0 +1,7 @@
+Hold Keys
+
+Run "Run Hold Keys.bat" on Windows. Python 3 must be installed; the app uses only Python's built-in libraries.
+
+Select any combination of keyboard keys and mouse buttons. Choose a toggle key from the list and click Apply. Backslash is selected by default. Press the toggle key to hold all selected inputs together, then press it again to release them. Closing the window also releases held inputs.
+
+The chosen toggle is registered globally while the app is open, including when the window is minimized. If a key is already in use, choose another one. On a standard US keyboard, backslash is above Enter and shares a key with the pipe character (|).
